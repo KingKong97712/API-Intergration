@@ -1,0 +1,18 @@
+[
+    {
+        "order_id": 123,
+        "customer": "John Doe",
+        "items": [
+            {"product": "Mug", "quantity": 2},
+            {"product": "Pen", "quantity": 3}
+        ]
+    },
+    {
+        "order_id": 6565,
+        "customer": "AFD Doe",
+        "items": [
+            {"product": "JUE", "quantity": 5},
+            {"product": "PIP", "quantity": 8}
+        ]
+    }
+]
